@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rajrohan88293](https://medium.com/@rajrohan88293)
 
-- 💬 Ask me about **Android, Java, Kotlin, XML, SDK, Cloud, GO-LANG, C++**
+- 💬 Ask me about **Android, Java, Kotlin, XML, SDK, Cloud, GO-LANG, C++ Kubernetes, Docker, CI CD** 
 
 - 📫 How to reach me **rajrohan88293@gmail.com**
 
