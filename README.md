@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Raj</h1>
-<h3 align="center">A passionate Android developer with Backend skills having a good understanding of cloud.</h3>
+<h3 align="center">Proficient programmer with a good understanding of multiple programming languages but mastery in Golang and Java. Focusing on Cloud & DevOps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanraj123&label=Profile%20views&color=0e75b6&style=flat" alt="rohanraj123" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/rohanra60322509" target="blank"><img src="https://img.shields.io/twitter/follow/rohanra60322509?logo=twitter&style=for-the-badge" alt="rohanra60322509" /></a> </p>
 
-- 🔭 I’m currently working on [MemoLane](Dm me to collaborate)
+- 🔭 Contributor @Kyverno & @Jaeger
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **Cloud** & **DevOps**
 
-- 👯 I’m looking to collaborate on [Bcured](Dm me to collaborate)
+- 👯 Would love to work together on Golang projects.
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
 - 📝 I regularly write articles on [https://medium.com/@rajrohan88293](https://medium.com/@rajrohan88293)
 
-- 💬 Ask me about **Android, Java, Kotlin, XML, SDK, Cloud, GO-LANG, C++ Kubernetes, Docker, CI CD** 
+- 💬 Ask me about **Java, Cloud, GO-LANG, Kubernetes, Docker, CI CD** 
 
 - 📫 How to reach me **rajrohan88293@gmail.com**
 
